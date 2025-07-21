@@ -1,0 +1,43 @@
+Yes, you can **absolutely add this project** to your resume — especially if you:
+
+### ✅ What the project demonstrates:
+
+This **Smart Warranty Card Manager** project shows off several key skills:
+
+* **Full-Stack Development** using the **MERN stack** (MongoDB, Express.js, React, Node.js)
+* **User Authentication** with JWT and route protection
+* **RESTful API design** with create, read, and delete operations
+* **State management** using React hooks
+* **Session and cookie handling** for secure login flow
+* **Practical real-world use case**: managing warranty data
+* **UI/UX design** using Tailwind CSS
+
+---
+
+### 🧠 Tips for adding it to your resume:
+
+You can write it like this in your project section:
+
+---
+
+**Smart Warranty Card Manager**
+*React | Node.js | Express | MongoDB | JWT | Tailwind CSS*
+
+* Built a full-stack warranty management system that allows customers to register products, track expiration, and securely manage warranties.
+* Implemented **user authentication** with session management and protected routes using **JWT and cookies**.
+* Added features like **search**, **delete**, and **alerts for expiring warranties**.
+* Created responsive and intuitive UI using **Tailwind CSS** and **React Hooks**.
+
+---
+
+### 🎯 Bonus Tip:
+
+Be ready to answer:
+
+* How you structured the backend routes
+* How authentication works
+* How state is managed in the frontend
+* How delete and alerts are implemented
+
+If you want, I can help you write a **GitHub README.md** or polish your **resume bullet points** for this project.
+
